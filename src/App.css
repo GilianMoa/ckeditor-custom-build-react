@@ -1,5 +1,14 @@
 .App {
-  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.EditorContainer{
+
+    width: 1200px;
+    height: 900px;
 }
 
 .App-logo {
